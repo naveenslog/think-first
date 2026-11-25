@@ -1,0 +1,16 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "think-first",
+  "description": "Use AI as a teacher, not an answer machine.",
+  "owner": {
+    "name": "Naveen Singh"
+  },
+  "plugins": [
+    {
+      "name": "think-first",
+      "description": "Think first, learn with hints, build the simplest thing that reuses what exists.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

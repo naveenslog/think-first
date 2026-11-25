@@ -1,0 +1,11 @@
+{
+  "name": "think-first",
+  "version": "1.0.0",
+  "description": "Coding coach for Claude Code: you think first, Claude teaches with questions and hints, then you build the simplest solution that reuses what exists. Answer-first, numbered, one next step.",
+  "author": {
+    "name": "Naveen Singh"
+  },
+  "license": "MIT",
+  "keywords": ["learning", "teaching", "socratic", "coding", "simplicity", "output-style"],
+  "hooks": "./hooks/hooks.json"
+}
